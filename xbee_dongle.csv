@@ -1,0 +1,22 @@
+Source:,D:\Program Files\KiCad_6\projects\xbee_dongle\xbee_dongle.kicad_sch,,,,,
+Date:,5/21/2023 18:36,,,,,
+Tool:,Eeschema (6.0.10),,,,,
+Generator:,D:\Program Files\KiCad_6\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,13,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,Datasheet,MPN,Price
+1,2,"C1, C4",0.1uF,~,,~
+2,2,"C2, C3",47pF,~,,~
+3,1,C5,2.2uF,~,,~
+4,1,D1,LED,~,,~
+5,1,J1,USB_A, ~,,~
+6,1,R1,330,~,,~
+7,2,"R2, R3",27,~,,~
+8,1,U1,FT231XS,https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf,~,~
+9,1,U2,XB3-24Z8CM-J,,,~
+10,1,U3,MIC5219-3.3YM5,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf,,~
